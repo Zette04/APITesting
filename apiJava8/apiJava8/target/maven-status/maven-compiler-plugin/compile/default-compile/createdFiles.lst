@@ -1,0 +1,9 @@
+com/api/beans/StudentRegistrationReply.class
+com/event/api/ApiApplication.class
+com/api/beans/Student.class
+com/event/api/ServletInitializer.class
+com/api/controllers/StudentDeleteController.class
+com/api/controllers/StudentUpdateController.class
+com/api/controllers/StudentRegistrationController.class
+com/api/controllers/StudentRetrieveController.class
+com/api/beans/StudentRegistration.class
