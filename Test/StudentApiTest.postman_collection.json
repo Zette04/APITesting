@@ -14,7 +14,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/student/allstudent",
+					"raw": "http://3.250.27.204:8443/apiJava8artifact-0.0.1-SNAPSHOT/student/allstudent",
 					"host": [
 						"localhost"
 					],
@@ -33,7 +33,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/delete/student",
+					"raw": "http://3.250.27.204:8443/apiJava8artifact-0.0.1-SNAPSHOT/delete/student",
 					"host": [
 						"localhost"
 					],
