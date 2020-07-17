@@ -20,7 +20,7 @@
 					],
 					"port": "8443",
 					"path": [
-						"apiJava8artifact-0.0.1-SNAPSHOT"
+						"apiJava8artifact-0.0.1-SNAPSHOT",
 						"student",
 						"allstudent"
 					]
@@ -40,7 +40,7 @@
 					],
 					"port": "8443",
 					"path": [
-						"apiJava8artifact-0.0.1-SNAPSHOT"
+						"apiJava8artifact-0.0.1-SNAPSHOT",
 						"delete",
 						"student"
 					]
