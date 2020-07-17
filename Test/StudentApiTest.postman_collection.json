@@ -16,9 +16,9 @@
 				"url": {
 					"raw": "http://3.250.27.204:8443/apiJava8artifact-0.0.1-SNAPSHOT/student/allstudent",
 					"host": [
-						"localhost"
+						"3.250.27.204"
 					],
-					"port": "8080",
+					"port": "8443",
 					"path": [
 						"student",
 						"allstudent"
@@ -35,9 +35,9 @@
 				"url": {
 					"raw": "http://3.250.27.204:8443/apiJava8artifact-0.0.1-SNAPSHOT/delete/student",
 					"host": [
-						"localhost"
+						"3.250.27.204"
 					],
-					"port": "8080",
+					"port": "8443",
 					"path": [
 						"delete",
 						"student"
