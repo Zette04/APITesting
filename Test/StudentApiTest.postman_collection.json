@@ -20,6 +20,7 @@
 					],
 					"port": "8080",
 					"path": [
+						"apiname",
 						"student",
 						"allstudent"
 					]
@@ -28,19 +29,23 @@
 			"response": []
 		},
 		{
-			"name": "Delete Student Data",
+			"name": "Get All Student Data",
 			"request": {
-				"method": "DELETE",
+				"auth": {
+					"type": "apikey"
+				},
+				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/delete/student",
+					"raw": "localhost:8080/student/allstudent",
 					"host": [
 						"localhost"
 					],
 					"port": "8080",
 					"path": [
-						"delete",
-						"student"
+						"apiname",
+						"student",
+						"allstudent"
 					]
 				}
 			},
