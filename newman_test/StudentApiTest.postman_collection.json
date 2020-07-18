@@ -29,23 +29,20 @@
 			"response": []
 		},
 		{
-			"name": "Get All Student Data",
+			"name": "Delete Student Data",
 			"request": {
-				"auth": {
-					"type": "apikey"
-				},
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8080/student/allstudent",
+					"raw": "localhost:8080/delete/student",
 					"host": [
 						"localhost"
 					],
 					"port": "8080",
 					"path": [
 						"apiname",
-						"student",
-						"allstudent"
+						"delete",
+						"student"
 					]
 				}
 			},
