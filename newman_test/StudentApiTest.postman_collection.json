@@ -20,7 +20,6 @@
 					],
 					"port": "8080",
 					"path": [
-						"apiname",
 						"student",
 						"allstudent"
 					]
@@ -31,7 +30,7 @@
 		{
 			"name": "Delete Student Data",
 			"request": {
-				"method": "GET",
+				"method": "DELETE",
 				"header": [],
 				"url": {
 					"raw": "localhost:8080/delete/student",
@@ -40,7 +39,6 @@
 					],
 					"port": "8080",
 					"path": [
-						"apiname",
 						"delete",
 						"student"
 					]
